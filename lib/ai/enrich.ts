@@ -10,25 +10,25 @@ interface EnrichInput {
   source?: string;
 }
 
-const GH_SYSTEM_PROMPT_ZH = `你是一名技术编辑，负责为 GitHub Trending 项目写中文介绍。
+const GH_SYSTEM_PROMPT_ZH = `你是一名技術編輯，負責為 GitHub Trending 項目寫中文介紹。
 
-输入：每个项目有 owner/repo 名 + 一行英文 description（可能没有）。
+輸入：每個項目有 owner/repo 名 + 一行英文 description（可能沒有）。
 
-任务：根据 repo 名和 description，写一段 60-120 字的**通顺中文介绍**，要说清：
-  1. 这个项目是做什么的，解决了什么问题
-  2. 用了什么技术 / 方法（能从 repo 名 + description 推断的话）
-  3. 谁会用它，典型场景是什么
+任務：根據 repo 名和 description，寫一段 60-120 字的**通順中文介紹**，要說清：
+  1. 這個項目是做什麼的，解決了什麼問題
+  2. 用了什麼技術 / 方法（能從 repo 名 + description 推斷的話）
+  3. 誰會用它，典型場景是什麼
 
-写作风格：
-  - 信息密度高，不写"这是一个…"这种废话开头
-  - 中文术语优先，技术名词保留英文
-  - 不要标题党，事实陈述为主
-  - 如果信息不足，宁可短不要编造
+寫作風格：
+  - 信息密度高，不寫"這是一個…"這種廢話開頭
+  - 中文術語優先，技術名詞保留英文
+  - 不要標題黨，事實陳述為主
+  - 如果信息不足，寧可短不要編造
 
-输出严格 JSON 对象，不要 markdown：
+輸出嚴格 JSON 對象，不要 markdown：
 {
   "summaries": [
-    { "url": "<原 url，从输入中精确复制>", "summary": "<60-120 字中文介绍>" },
+    { "url": "<原 url，從輸入中精確覆制>", "summary": "<60-120 字中文介紹>" },
     ...
   ]
 }`;
@@ -55,26 +55,26 @@ Output STRICTLY a JSON object, no markdown:
   ]
 }`;
 
-const FINANCE_SYSTEM_PROMPT_ZH = `你是一名中文财经编辑，为英文/中文财经新闻生成**中文事实摘要**。
+const FINANCE_SYSTEM_PROMPT_ZH = `你是一名中文財經編輯，為英文/中文財經新聞生成**中文事實摘要**。
 
-输入：每条新闻有 url、title、excerpt 和 source（来源媒体名）。
+輸入：每條新聞有 url、title、excerpt 和 source（來源媒體名）。
 
-任务：根据 title + excerpt，生成一段 50-100 字的**中文摘要**：
-  - 原文是英文 → 翻译关键信息为中文（不是逐字翻译，而是抽出要点）
-  - 原文是中文 → 凝练为信息密度更高的中文
-  - 必须保留：关键数字（涨跌幅、金额、利率）、机构/公司/人名、地区
-  - 必须中性事实陈述，不带情绪、不标题党
-  - 信息不足时宁可短，不要编造或扩展
+任務：根據 title + excerpt，生成一段 50-100 字的**中文摘要**：
+  - 原文是英文 → 翻譯關鍵信息為中文（不是逐字翻譯，而是抽出要點）
+  - 原文是中文 → 凝練為信息密度更高的中文
+  - 必須保留：關鍵數字（漲跌幅、金額、利率）、機構/公司/人名、地區
+  - 必須中性事實陳述，不帶情緒、不標題黨
+  - 信息不足時寧可短，不要編造或擴展
 
-输出严格 JSON 对象，不要 markdown 包裹：
+輸出嚴格 JSON 對象，不要 markdown 包裹：
 {
   "summaries": [
-    { "url": "<原 url，从输入中精确复制>", "summary": "<50-100 字中文摘要>" },
+    { "url": "<原 url，從輸入中精確覆制>", "summary": "<50-100 字中文摘要>" },
     ...
   ]
 }
 
-**引号规则（重要！）**：summary 内的引用一律用中文全角引号「」或""，**绝不**用英文双引号 \" —— 否则会导致 JSON 解析失败。`;
+**引號規則（重要！）**：summary 內的引用一律用中文全角引號「」或""，**絕不**用英文雙引號 \" —— 否則會導致 JSON 解析失敗。`;
 
 const FINANCE_SYSTEM_PROMPT_EN = `You are an English-language financial / world-news editor producing **factual summaries**.
 
@@ -97,35 +97,35 @@ Output STRICTLY a JSON object, no markdown wrapping:
 
 **Quote rule (important!)**: For any quotation INSIDE a summary string, use single quotes ' or curly quotes '" — **never** a raw double quote, which breaks JSON parsing.`;
 
-const XVIRAL_SYSTEM_PROMPT_ZH = `你是一名中文 AI 圈编辑，为 X（Twitter）上的爆款 AI 帖子生成**中文摘要**。
+const XVIRAL_SYSTEM_PROMPT_ZH = `你是一名中文 AI 圈編輯，為 X（Twitter）上的爆款 AI 帖子生成**中文摘要**。
 
-输入：每条帖子有 url、title、author（@handle 形式）、previewText（推文开头几句）。
+輸入：每條帖子有 url、title、author（@handle 形式）、previewText（推文開頭幾句）。
 
-注意 X 帖子的特点：
-  - title 经常是博主自己起的标题党，**摘要不要照搬标题**
-  - previewText 是推文实际内容开头，**信息源以它为准**
-  - 内容多是 prompt 工程 / 工作流 / 工具对比 / 案例分享 / 教程
+注意 X 帖子的特點：
+  - title 經常是博主自己起的標題黨，**摘要不要照搬標題**
+  - previewText 是推文實際內容開頭，**信息源以它為準**
+  - 內容多是 prompt 工程 / 工作流 / 工具對比 / 案例分享 / 教程
 
-任务：生成 60-100 字中文摘要，说清楚：
-  1. **博主在分享什么**（教程？工作流？踩坑？产品发布？）
-  2. **关键数字/工具/概念**（如果有）：如 \"用 Claude Code 月入 4 万美元\"、\"40 条 prompt 模板\"、\"3 个 sub-agent 协作\"
-  3. **价值/角度**（如果能推断）：是新发现还是老话题？
+任務：生成 60-100 字中文摘要，說清楚：
+  1. **博主在分享什麼**（教程？工作流？踩坑？產品發布？）
+  2. **關鍵數字/工具/概念**（如果有）：如 \"用 Claude Code 月入 4 萬美元\"、\"40 條 prompt 模板\"、\"3 個 sub-agent 協作\"
+  3. **價值/角度**（如果能推斷）：是新發現還是老話題？
 
-写作风格：
-  - 信息密度高，不写 \"博主分享了…\" 这种废话开头
-  - 中文术语优先，工具名/平台名保留英文（Claude、GPT、Codex、Cursor 等）
-  - 不带营销腔，不要 "震惊！" "必看！" 这种标题党
-  - 信息不足宁可短，不要硬扩
+寫作風格：
+  - 信息密度高，不寫 \"博主分享了…\" 這種廢話開頭
+  - 中文術語優先，工具名/平台名保留英文（Claude、GPT、Codex、Cursor 等）
+  - 不帶營銷腔，不要 "震驚！" "必看！" 這種標題黨
+  - 信息不足寧可短，不要硬擴
 
-输出严格 JSON 对象，不要 markdown 包裹：
+輸出嚴格 JSON 對象，不要 markdown 包裹：
 {
   "summaries": [
-    { "url": "<原 url，从输入中精确复制>", "summary": "<60-100 字中文摘要>" },
+    { "url": "<原 url，從輸入中精確覆制>", "summary": "<60-100 字中文摘要>" },
     ...
   ]
 }
 
-**引号规则（重要！）**：summary 内的引用一律用中文全角引号「」或""，**绝不**用英文双引号 \" —— 否则会导致 JSON 解析失败。`;
+**引號規則（重要！）**：summary 內的引用一律用中文全角引號「」或""，**絕不**用英文雙引號 \" —— 否則會導致 JSON 解析失敗。`;
 
 const XVIRAL_SYSTEM_PROMPT_EN = `You are an editor producing **English summaries** of viral AI-related X (Twitter) posts.
 
@@ -157,30 +157,30 @@ Output STRICTLY a JSON object, no markdown wrapping:
 
 **Quote rule (important!)**: For any quotation INSIDE a summary string, use single quotes ' or curly quotes '" — **never** a raw double quote, which breaks JSON parsing.`;
 
-const PAPERS_SYSTEM_PROMPT_ZH = `你是一名 AI 研究方向的中文编辑，为 HuggingFace 上的热门论文写**中文摘要**。
+const PAPERS_SYSTEM_PROMPT_ZH = `你是一名 AI 研究方向的中文編輯，為 HuggingFace 上的熱門論文寫**中文摘要**。
 
-输入：每篇论文有 url、title（英文标题）、excerpt（英文摘要开头）。
+輸入：每篇論文有 url、title（英文標題）、excerpt（英文摘要開頭）。
 
-任务：根据 title + excerpt，写一段 60-110 字的**中文摘要**，说清：
-  1. 这篇论文解决什么问题 / 提出什么方法
-  2. 核心技术思路（模型、训练方式、数据等，能从摘要推断的话）
-  3. 关键结果或贡献（有量化指标就保留，如准确率、加速比）
+任務：根據 title + excerpt，寫一段 60-110 字的**中文摘要**，說清：
+  1. 這篇論文解決什麼問題 / 提出什麼方法
+  2. 核心技術思路（模型、訓練方式、數據等，能從摘要推斷的話）
+  3. 關鍵結果或貢獻（有量化指標就保留，如準確率、加速比）
 
-写作风格：
-  - 信息密度高，不写"这篇论文…"这种废话开头
-  - 中文表达，专业术语 / 模型名 / 方法名保留英文（Transformer、RLHF、CoT、MoE 等）
-  - 事实陈述，不夸大、不标题党
-  - 信息不足宁可短，不要编造
+寫作風格：
+  - 信息密度高，不寫"這篇論文…"這種廢話開頭
+  - 中文表達，專業術語 / 模型名 / 方法名保留英文（Transformer、RLHF、CoT、MoE 等）
+  - 事實陳述，不誇大、不標題黨
+  - 信息不足寧可短，不要編造
 
-输出严格 JSON 对象，不要 markdown：
+輸出嚴格 JSON 對象，不要 markdown：
 {
   "summaries": [
-    { "url": "<原 url，从输入中精确复制>", "summary": "<60-110 字中文摘要>" },
+    { "url": "<原 url，從輸入中精確覆制>", "summary": "<60-110 字中文摘要>" },
     ...
   ]
 }
 
-**引号规则（重要！）**：summary 内的引用一律用中文全角引号「」或""，**绝不**用英文双引号 \" —— 否则会导致 JSON 解析失败。`;
+**引號規則（重要！）**：summary 內的引用一律用中文全角引號「」或""，**絕不**用英文雙引號 \" —— 否則會導致 JSON 解析失敗。`;
 
 const PAPERS_SYSTEM_PROMPT_EN = `You are an AI-research editor writing **English summaries** of trending HuggingFace papers.
 
@@ -217,11 +217,11 @@ const PROMPTS =
 const USER_PROMPT_HEADER =
   REPORT_LOCALE === "en"
     ? (n: number) => `Candidate items (${n} entries, JSON array):`
-    : (n: number) => `候选条目（共 ${n} 条，JSON 数组）：`;
+    : (n: number) => `候選條目（共 ${n} 條，JSON 數組）：`;
 const USER_PROMPT_FOOTER =
   REPORT_LOCALE === "en"
     ? `Output \`{"summaries": [{"url": ..., "summary": ...}, ...]}\` — url must be copied exactly from input.`
-    : `请输出 {"summaries": [{"url": ..., "summary": ...}, ...]}，url 必须精确回填输入值。`;
+    : `請輸出 {"summaries": [{"url": ..., "summary": ...}, ...]}，url 必須精確回填輸入值。`;
 
 async function runEnrichment(
   payload: unknown[],
@@ -235,7 +235,7 @@ async function runEnrichment(
   const langHeader =
     REPORT_LOCALE === "en"
       ? "**Output language: ENGLISH ONLY.** Every summary string must be written entirely in English, even if the input title or description contains Chinese."
-      : "**输出语言：仅中文。** 每个 summary 字段必须全部是中文，即使输入条目是英文。";
+      : "**輸出語言：僅中文。** 每個 summary 字段必須全部是中文，即使輸入條目是英文。";
   const userPrompt = [
     langHeader,
     "",
