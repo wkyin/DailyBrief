@@ -132,22 +132,22 @@ async function callOnce(userPayloadJson: string): Promise<DailyReport> {
           userPayloadJson,
         ].join("\n")
       : [
-          "你的任务：根据下方候选新闻，生成一份当日简报，**响应必须是一个合法 JSON 对象**——以 `{` 开头，以 `}` 结尾，不要 markdown / 不要代码围栏 / 不要任何解释。",
+          "你的任務：根據下方候選新聞，生成一份當日簡報，**響應必須是一個合法 JSON 對象**——以 `{` 開頭，以 `}` 結尾，不要 markdown / 不要代碼圍欄 / 不要任何解釋。",
           "",
-          "JSON 必须包含全部字段且不能为空（briefs 数组按 system prompt 规定的条数填充）：",
-          "  - hero_headline: 10-25 字的当日一句话头条",
-          "  - daily_overview: **150-220 字** 的当日总览段落，一段话覆盖技术 / 财经 / 时政 的核心信号，让读者一眼抓住全貌",
-          "  - tech_briefs: **3-5 条** 科技 BriefItem",
-          "  - finance_briefs: **3-5 条** 财经 BriefItem",
-          "  - politics_briefs: **2-3 条** 时政 BriefItem",
-          "  - editor_note: 30-60 字的编辑短评",
-          "  - keywords: 5-8 个关键词",
+          "JSON 必須包含全部字段且不能為空（briefs 數組按 system prompt 規定的條數填充）：",
+          "  - hero_headline: 10-25 字的當日一句話頭條",
+          "  - daily_overview: **150-220 字** 的當日總覽段落，一段話覆蓋技術 / 財經 / 時政 的核心信號，讓讀者一眼抓住全貌",
+          "  - tech_briefs: **3-5 條** 科技 BriefItem",
+          "  - finance_briefs: **3-5 條** 財經 BriefItem",
+          "  - politics_briefs: **2-3 條** 時政 BriefItem",
+          "  - editor_note: 30-60 字的編輯短評",
+          "  - keywords: 5-8 個關鍵詞",
           "",
-          "BriefItem 字段：title、url（必须从候选条目原样选取）、source、summary、importance(1-10)。",
-          "**引号规则（重要！）**：JSON 字符串内的中文引用请使用**中文全角引号**「」或者 “”，**绝对不要**用英文双引号 \" —— 那会导致 JSON 解析失败。例：写 商务部回应「内卷」 而不是 商务部回应\"内卷\"。",
-          "不要使用单引号、不要末尾多余逗号。",
+          "BriefItem 字段：title、url（必須從候選條目原樣選取）、source、summary、importance(1-10)。",
+          "**引號規則（重要！）**：JSON 字符串內的中文引用請使用**中文全角引號**「」或者 “”，**絕對不要**用英文雙引號 \" —— 那會導致 JSON 解析失敗。例：寫 商務部回應「內卷」 而不是 商務部回應\"內卷\"。",
+          "不要使用單引號、不要末尾多餘逗號。",
           "",
-          "候选新闻（JSON 数组，共 " + userPayloadJson.length + " 字符）：",
+          "候選新聞（JSON 數組，共 " + userPayloadJson.length + " 字符）：",
           userPayloadJson,
         ].join("\n");
   const { text } = await runLlm({
@@ -160,7 +160,7 @@ async function callOnce(userPayloadJson: string): Promise<DailyReport> {
     parsed = JSON.parse(cleaned) as Partial<DailyReport>;
   } catch (strictErr) {
     // LLMs routinely emit JSON with unescaped quotes inside Chinese
-    // strings (e.g. 商务部回应"内卷"). jsonrepair fixes most of these
+    // strings (e.g. 商務部回應"內卷"). jsonrepair fixes most of these
     // mechanically before we ever surface a failure.
     try {
       const repaired = jsonrepair(cleaned);
