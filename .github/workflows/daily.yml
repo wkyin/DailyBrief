@@ -176,7 +176,7 @@ jobs:
     needs: gate
     if: needs.gate.outputs.should-run == 'true'
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 120
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
