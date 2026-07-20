@@ -6,180 +6,200 @@
       "title": "tirth8205/code-review-graph",
       "url": "https://github.com/tirth8205/code-review-graph",
       "excerpt": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "meta": "Python · ★ 22,922 · 🍴 2,259 · 📈 1,876 stars today",
+      "meta": "Python · ★ 22,939 · 🍴 2,261 · 📈 1,876 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "面向MCP与CLI的本地优先代码智能图谱工具。通过构建代码库持久化映射，让AI编程工具仅读取关键上下文，显著降低代码审查与大型仓库操作的上下文冗余。适合开发者在大型项目中优化AI辅助编程的精准度与效率。"
     },
     {
       "sourceId": "github-trending",
       "title": "1jehuang/jcode",
       "url": "https://github.com/1jehuang/jcode",
       "excerpt": "The most intelligent agent harness for code",
-      "meta": "Rust · ★ 9,526 · 🍴 1,077 · 📈 612 stars today",
+      "meta": "Rust · ★ 9,540 · 🍴 1,077 · 📈 612 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "智能代码Agent编排框架。提供高效 harness 机制整合与调度各类代码智能体，旨在提升AI编程任务的执行效率与协同能力。适合需要构建复杂自动化编程工作流或深度集成多种代码生成工具的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "excerpt": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA",
-      "meta": "TypeScript · ★ 21,515 · 🍴 2,933 · 📈 1,300 stars today",
+      "meta": "TypeScript · ★ 21,540 · 🍴 2,939 · 📈 1,300 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "MIT协议的免费AI网关，单端点接入268+供应商与500+模型（含50+免费源），支持Claude、GPT、GLM等。兼容Claude Code、Cursor等主流编程工具，适合开发者零成本整合多源大模型，实现AI编程工具的无缝切换与高可用调用。"
     },
     {
       "sourceId": "github-trending",
       "title": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "excerpt": "Learn it. Build it. Ship it for others.",
-      "meta": "Python · ★ 40,448 · 🍴 6,715 · 📈 846 stars today",
+      "meta": "Python · ★ 40,449 · 🍴 6,715 · 📈 846 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "AI工程从零学习与实践指南。遵循“学习、构建、交付”理念，提供从基础到部署的完整路径。适合希望系统掌握AI工程全栈技能并落地实际产品的开发者与学习者。"
     },
     {
       "sourceId": "github-trending",
       "title": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "excerpt": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "meta": "Shell · ★ 134,622 · 🍴 21,955 · 📈 744 stars today",
+      "meta": "Shell · ★ 134,624 · 🍴 21,955 · 📈 744 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "全栈AI代理集合，涵盖前端开发、社区运营、创意注入及现实校验等专家角色。每个Agent具备专属性格与工作流，适合需要多角色协同完成复杂业务流程的团队，快速构建定制化AI虚拟团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "kvcache-ai/ktransformers",
       "url": "https://github.com/kvcache-ai/ktransformers",
       "excerpt": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
-      "meta": "Python · ★ 18,710 · 🍴 1,463 · 📈 448 stars today",
+      "meta": "Python · ★ 18,711 · 🍴 1,463 · 📈 448 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "异构LLM推理与微调优化框架。提供灵活架构支持在不同硬件上体验大模型加速优化，适合AI工程师在多GPU或异构计算环境下提升推理吞吐量与微调效率。"
     },
     {
       "sourceId": "github-trending",
       "title": "jamiepine/voicebox",
       "url": "https://github.com/jamiepine/voicebox",
       "excerpt": "The open-source AI voice studio. Clone, dictate, create.",
-      "meta": "TypeScript · ★ 44,074 · 🍴 5,355 · 📈 839 stars today",
+      "meta": "TypeScript · ★ 44,079 · 🍴 5,355 · 📈 839 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "开源AI语音工作室，支持声音克隆、语音听写与创作。集成多种语音处理能力，适合内容创作者、播客及需要定制化语音生成与处理的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "topoteretes/cognee",
       "url": "https://github.com/topoteretes/cognee",
       "excerpt": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
-      "meta": "Python · ★ 28,717 · 🍴 2,740 · 📈 249 stars today",
+      "meta": "Python · ★ 28,722 · 🍴 2,740 · 📈 249 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "面向AI Agent的开源记忆平台。通过自托管知识图谱引擎赋予智能体跨会话的持久化长期记忆，解决上下文遗忘问题。适合需要Agent维持长期状态与复杂知识关联的对话系统及自动化工作流开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "Robbyant/lingbot-map",
       "url": "https://github.com/Robbyant/lingbot-map",
       "excerpt": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "meta": "Python · ★ 14,128 · 🍴 1,479 · 📈 554 stars today",
+      "meta": "Python · ★ 14,136 · 🍴 1,479 · 📈 554 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "前馈3D基础模型，专用于从流式数据重建3D场景。能实时处理连续输入数据并构建空间映射，适合机器人导航、AR/VR及自动驾驶等需要实时3D场景理解与重建的领域。"
     },
     {
       "sourceId": "github-trending",
       "title": "every-app/open-seo",
       "url": "https://github.com/every-app/open-seo",
       "excerpt": "Open source alternative to Semrush and Ahrefs",
-      "meta": "TypeScript · ★ 5,733 · 🍴 638 · 📈 983 stars today",
+      "meta": "TypeScript · ★ 5,741 · 🍴 638 · 📈 983 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "Semrush与Ahrefs的开源替代品。提供搜索引擎优化分析工具集，适合SEO从业者及独立开发者进行关键词研究、网站审计等，以零成本实现专业级数据分析。"
     },
     {
       "sourceId": "github-trending",
       "title": "MoonshotAI/kimi-cli",
       "url": "https://github.com/MoonshotAI/kimi-cli",
       "excerpt": "Kimi Code CLI is your next CLI agent.",
-      "meta": "Python · ★ 10,188 · 🍴 1,215 · 📈 405 stars today",
+      "meta": "Python · ★ 10,192 · 🍴 1,216 · 📈 405 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "Kimi推出的命令行编程智能体。作为下一代CLI Agent，旨在通过终端提供高效的代码生成与操作体验，适合习惯命令行工作流的开发者快速获取AI编程辅助。"
     },
     {
       "sourceId": "github-trending",
       "title": "AstrBotDevs/AstrBot",
       "url": "https://github.com/AstrBotDevs/AstrBot",
       "excerpt": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "meta": "Python · ★ 37,034 · 🍴 2,573 · 📈 330 stars today",
+      "meta": "Python · ★ 37,038 · 🍴 2,573 · 📈 330 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "AI Agent开发框架与助手，集成多IM平台、LLM与插件，可作为OpenClaw替代。适合需要跨平台部署智能体并快速接入各类聊天软件与AI能力的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "PrefectHQ/fastmcp",
       "url": "https://github.com/PrefectHQ/fastmcp",
       "excerpt": "🚀 The fast, Pythonic way to build MCP servers and clients.",
-      "meta": "Python · ★ 26,486 · 🍴 2,159 · 📈 77 stars today",
+      "meta": "Python · ★ 26,487 · 🍴 2,160 · 📈 77 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "快速构建MCP服务器与客户端的Pythonic框架。提供高效语法糖，适合Python开发者快速搭建模型上下文协议服务，实现AI工具与数据源的标准对接。"
     },
     {
       "sourceId": "github-trending",
       "title": "KnockOutEZ/wigolo",
       "url": "https://github.com/KnockOutEZ/wigolo",
       "excerpt": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
-      "meta": "TypeScript · ★ 2,448 · 🍴 143 · 📈 695 stars today",
+      "meta": "TypeScript · ★ 2,453 · 🍴 143 · 📈 695 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "面向AI编程Agent的本地优先Web搜索与抓取工具，基于MCP协议。无需API密钥与云端服务即可实现零成本搜索、爬取与研究，适合需要为AI Agent提供实时网络信息检索能力的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "tokio-rs/topcoat",
       "url": "https://github.com/tokio-rs/topcoat",
       "excerpt": "A batteries-included framework for building web apps",
-      "meta": "Rust · ★ 1,455 · 🍴 39 · 📈 374 stars today",
+      "meta": "Rust · ★ 1,462 · 🍴 39 · 📈 374 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "基于Rust的开箱即用Web应用框架。内置丰富功能组件，适合Rust开发者快速构建高性能、全栈Web服务，减少基础组件选型与集成成本。"
     },
     {
       "sourceId": "github-trending",
       "title": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "excerpt": "Collection of publicly available IPTV channels from all over the world",
-      "meta": "TypeScript · ★ 133,714 · 🍴 7,558 · 📈 144 stars today",
+      "meta": "TypeScript · ★ 133,719 · 🍴 7,558 · 📈 144 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "全球公开IPTV频道集合。收集世界各地免费电视直播源，适合用户通过播放器免费观看全球节目，或开发者用于研究及构建流媒体应用。"
     },
     {
       "sourceId": "github-trending",
       "title": "oblien/openship",
       "url": "https://github.com/oblien/openship",
       "excerpt": "Self-hosted deployment platform",
-      "meta": "TypeScript · ★ 4,603 · 🍴 315 · 📈 1,719 stars today",
+      "meta": "TypeScript · ★ 4,612 · 🍴 317 · 📈 1,719 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "自托管部署平台。允许用户在自有服务器上管理应用发布流程，适合追求数据隐私与定制化部署的团队，替代Vercel等SaaS服务实现自主可控的CI/CD。"
     },
     {
       "sourceId": "github-trending",
       "title": "microsoft/Ontology-Playground",
       "url": "https://github.com/microsoft/Ontology-Playground",
       "excerpt": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
-      "meta": "TypeScript · ★ 1,676 · 🍴 225 · 📈 487 stars today",
+      "meta": "TypeScript · ★ 1,680 · 🍴 227 · 📈 487 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "微软开源的本体学习与Fabric IQ Web应用。提供预构建本体目录、可视化设计器及RDF/XML导出，适合数据工程师与领域专家探索、设计并分享知识本体结构。"
     },
     {
       "sourceId": "github-trending",
       "title": "handy-computer/transcribe.cpp",
       "url": "https://github.com/handy-computer/transcribe.cpp",
       "excerpt": "ggml speech-to-text inference for 16+ model families",
-      "meta": "C++ · ★ 1,190 · 🍴 29 · 📈 401 stars today",
+      "meta": "C++ · ★ 1,195 · 🍴 29 · 📈 401 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "基于ggml的语音转文本推理引擎，支持16+模型家族。提供轻量级本地部署方案，适合需要在资源受限环境或本地进行高效语音识别的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "moonshine-ai/moonshine",
       "url": "https://github.com/moonshine-ai/moonshine",
       "excerpt": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces",
-      "meta": "C++ · ★ 9,732 · 🍴 515 · 📈 264 stars today",
+      "meta": "C++ · ★ 9,739 · 🍴 515 · 📈 264 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "超低延迟语音识别、意图识别与语音合成工具包。专为构建语音Agent与交互界面设计，适合对实时响应要求极高的语音助手、智能硬件及对话系统开发者。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -219,6 +239,15 @@
     },
     {
       "sourceId": "v2ex-hot",
+      "title": "有什么比较丝滑的远程桌面工具",
+      "url": "https://www.v2ex.com/t/1228666",
+      "excerpt": "16 回复 · 程序员 节点",
+      "publishedAt": "2026-07-20T13:32:42.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
       "title": "为啥 ubuntu 搞个 wayland 这种不兼容的玩意出来",
       "url": "https://www.v2ex.com/t/1223777",
       "excerpt": "16 回复 · Linux 节点",
@@ -241,15 +270,6 @@
       "url": "https://www.v2ex.com/t/1227780",
       "excerpt": "16 回复 · Apple 节点",
       "publishedAt": "2026-07-16T08:24:49.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
-      "title": "有什么比较丝滑的远程桌面工具",
-      "url": "https://www.v2ex.com/t/1228666",
-      "excerpt": "15 回复 · 程序员 节点",
-      "publishedAt": "2026-07-20T13:32:42.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -1224,8 +1244,7 @@
       "publishedAt": "2026-07-16T00:00:00.000Z",
       "meta": "👍 182",
       "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "针对推理上下文长度远超RL后训练长度的问题，提出LongStraw方法。在固定GPU预算下，将RL后训练的上下文扩展至2M tokens以上，弥补AI代理在长上下文部署时的泛化差距。"
+      "source": "HuggingFace Trending Papers"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1235,8 +1254,7 @@
       "publishedAt": "2026-07-16T00:00:00.000Z",
       "meta": "👍 155",
       "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "提出VideoChat3，面向高效通用视频理解的全开源视频MLLM。解决现有开源模型难以泛化不同视频类型的问题，整合运动、长视频与流式交互能力，推动视频理解走向实际应用。"
+      "source": "HuggingFace Trending Papers"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1246,8 +1264,7 @@
       "publishedAt": "2026-07-16T00:00:00.000Z",
       "meta": "👍 112",
       "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "提出RESOURCE2SKILL方法，从人类创建的多模态资源（如教程视频）中蒸馏出可执行的代理技能。弥补现有技能库依赖手写或代理轨迹的不足，将多模态人类经验转化为可复用的程序知识。"
+      "source": "HuggingFace Trending Papers"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1257,8 +1274,7 @@
       "publishedAt": "2026-07-13T00:00:00.000Z",
       "meta": "👍 110",
       "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "提出开源模块化GraphRAG引擎RAGU。针对现有系统单次提取产生噪声实体和脆弱检索的问题，采用多步提取与紧凑的领域自适应LLM，提升知识图谱构建质量与检索增强效果。"
+      "source": "HuggingFace Trending Papers"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1268,8 +1284,7 @@
       "publishedAt": "2026-07-16T00:00:00.000Z",
       "meta": "👍 93",
       "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "提出SEED方法，用于代理式RL的自进化在线策略蒸馏。解决长序列交互任务中基于结果的RL奖励稀疏问题，通过在线蒸馏提供token级监督，提升代理在多轮交互与工具使用中的表现。"
+      "source": "HuggingFace Trending Papers"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1279,8 +1294,17 @@
       "publishedAt": "2026-07-16T00:00:00.000Z",
       "meta": "👍 63",
       "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "提出SearchOS-V1，面向鲁棒开放域信息搜寻的代理协作系统。解决现有搜索代理在交互历史增长时难以追踪任务进度的问题，在搜索失败时提供更稳健的单/多代理协作机制。"
+      "source": "HuggingFace Trending Papers"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories",
+      "url": "https://huggingface.co/papers/2607.15330",
+      "excerpt": "We present Xiaomi-Robotics-1, a foundational vision-language-action (VLA) model capable of (1) following diverse language instructions to perform a wide range of mobile manipulation tasks in unseen environments out-of-the-box, and (2) efficiently adapting to novel downstream tasks with minimal fine-",
+      "publishedAt": "2026-07-16T00:00:00.000Z",
+      "meta": "👍 53",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1290,19 +1314,7 @@
       "publishedAt": "2026-07-17T00:00:00.000Z",
       "meta": "👍 53",
       "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "发布Loopie系列循环Transformer，含20B总参/2B激活与6B总参/0.6B激活的MoE模型。解决循环Transformer在N倍循环下面临的挑战，实现迄今最强大的循环Transformer表现。"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories",
-      "url": "https://huggingface.co/papers/2607.15330",
-      "excerpt": "We present Xiaomi-Robotics-1, a foundational vision-language-action (VLA) model capable of (1) following diverse language instructions to perform a wide range of mobile manipulation tasks in unseen environments out-of-the-box, and (2) efficiently adapting to novel downstream tasks with minimal fine-",
-      "publishedAt": "2026-07-16T00:00:00.000Z",
-      "meta": "👍 52",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "提出Xiaomi-Robotics-1视觉-语言-动作（VLA）基础模型。基于超10万小时真实世界轨迹数据训练，支持在未见环境中零样本执行多样移动操作任务，并能高效微调适配下游新任务。"
+      "source": "HuggingFace Trending Papers"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1312,8 +1324,7 @@
       "publishedAt": "2026-07-16T00:00:00.000Z",
       "meta": "👍 50",
       "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "揭示世界-动作模型（WAMs）中「梦境正确但行为错误」的BadWAM现象。指出WAMs虽耦合动作生成与未来世界预测以提升鲁棒性，但在实际具身控制中仍可能出现预测与动作脱节的问题。"
+      "source": "HuggingFace Trending Papers"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1323,8 +1334,7 @@
       "publishedAt": "2026-07-16T00:00:00.000Z",
       "meta": "👍 45",
       "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "提出扩展超连接，将Transformer残差流扩展至N个并行流，实现超越模型宽度与深度的内存缩放。结合流形约束HC（mHC）稳定大规模训练，N从1至4带来显著性能提升。"
+      "source": "HuggingFace Trending Papers"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1332,10 +1342,9 @@
       "url": "https://huggingface.co/papers/2607.15314",
       "excerpt": "Healthcare spans high-stakes communication, expert reasoning, and workflow execution, yet specialized LLMs that cover these use cases together remain limited. A healthcare model must handle patient consultation, clinical reasoning over text and images, interactive diagnosis, and electronic health re",
       "publishedAt": "2026-07-15T00:00:00.000Z",
-      "meta": "👍 40",
+      "meta": "👍 42",
       "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "提出Cura 1T，面向代理式医疗的专用LLM。覆盖高风险沟通、专家推理与工作流执行，支持患者咨询、图文临床推理、交互诊断及电子病历处理，弥补现有医疗模型功能单一的不足。"
+      "source": "HuggingFace Trending Papers"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1345,8 +1354,7 @@
       "publishedAt": "2026-07-15T00:00:00.000Z",
       "meta": "👍 38",
       "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "提出KeyFrame-Compass，全面评估关键帧条件下的视频生成。针对多关键帧条件模型能否忠实还原指定关键帧并保持连贯性的问题，构建评估基准，填补该领域系统性评价的空白。"
+      "source": "HuggingFace Trending Papers"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1356,8 +1364,7 @@
       "publishedAt": "2026-07-15T00:00:00.000Z",
       "meta": "👍 33",
       "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "提出MultiRef-Compass，全面评估多参考到音视频（MR2AV）生成。针对现有基准侧重文本驱动或单参考保持的局限，构建基于多参考与文本指令的连贯音视频生成评估体系。"
+      "source": "HuggingFace Trending Papers"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1367,8 +1374,7 @@
       "publishedAt": "2026-07-14T00:00:00.000Z",
       "meta": "👍 31",
       "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "提出自校正耦合马尔可夫跳变过程，实现图像理解与生成并发。基于掩码扩散模型（MDMs），模拟人类认知中理解与生成相互重塑的耦合循环，解决现有采样器难以协同两种任务的问题。"
+      "source": "HuggingFace Trending Papers"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1378,8 +1384,7 @@
       "publishedAt": "2026-07-14T00:00:00.000Z",
       "meta": "👍 30",
       "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "提出UniVR，在视觉空间中思考的统一视觉推理模型。首次从纯视觉演示中同时学习复杂推理、细粒度物理动态与长期规划，实现从原始视觉数据直接学习广阔世界知识的基础能力。"
+      "source": "HuggingFace Trending Papers"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1389,8 +1394,7 @@
       "publishedAt": "2026-07-16T00:00:00.000Z",
       "meta": "👍 25",
       "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "研究强化学习中的在线策略Delta蒸馏。该方法通过教师模型提供token级监督，缓解奖励模型约束。本文深入探讨其基础原理，弥补在线策略蒸馏在不同场景下应用的理论与实证空白。"
+      "source": "HuggingFace Trending Papers"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1400,8 +1404,7 @@
       "publishedAt": "2026-07-17T00:00:00.000Z",
       "meta": "👍 25",
       "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "发布RecGPT-V3技术报告。推动推荐系统从匹配历史共现模式转向推理用户意图，在V1以用户理解为中心与V2多代理扩展的基础上，进一步优化大模型驱动的意图推理推荐范式。"
+      "source": "HuggingFace Trending Papers"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1411,8 +1414,7 @@
       "publishedAt": "2026-07-15T00:00:00.000Z",
       "meta": "👍 25",
       "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "提出Hy-Embodied-RxBrain具身认知基础模型，结合语言-视觉推理与想象。解决代理需将高层任务推理与物理状态连接的问题，突破现有VLM偏重场景理解的局限，实现联合推理与状态想象。"
+      "source": "HuggingFace Trending Papers"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1422,8 +1424,7 @@
       "publishedAt": "2026-07-03T00:00:00.000Z",
       "meta": "👍 24",
       "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "提出谱重连技术，用于探索、净化与模型合并。解决RL后训练中密集全参更新导致的推理性能抑制与模型整合干扰问题，避免测试时缩放过早饱和，优化大模型强化学习后训练。"
+      "source": "HuggingFace Trending Papers"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1433,8 +1434,7 @@
       "publishedAt": "2026-07-14T00:00:00.000Z",
       "meta": "👍 23",
       "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "研究生成式AI技术迭代对代码审查质量的影响，探讨代码审查从以人为中心向代理式审查的转变。分析不同代际AI技术如何减轻人类审查负担，并评估其对软件质量维护的实际效果。"
+      "source": "HuggingFace Trending Papers"
     },
     {
       "sourceId": "huggingface-papers",
@@ -2265,7 +2265,7 @@
       "category": "tech",
       "meta": "@nifinet · 11.0K 粉丝 · 337.0K 阅 · 518 赞 · 33 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "分享基于 Codex 构建自我改进外呼系统的方法。以 Karpathy 让 Agent 自主跑 700 次实验并保留 20 个最优结果为例，探讨如何让模型在代码层面实现自动化迭代与性能提升。"
+      "summary": "分享基於 Codex 構建自我改進外聯系統的方法。以 Karpathy 讓 Agent 自主跑實驗為例，兩天跑 700 次實驗並保留 20 個最優結果，展示如何讓模型在代碼層面實現自動叠代與優化。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2276,7 +2276,7 @@
       "category": "tech",
       "meta": "@CliffordSosin · 16.4K 粉丝 · 197.0K 阅 · 514 赞 · 49 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "探讨超级智能带来的实际影响。作者认为超级智能的到来并未引发剧变，而是渐进式的。建议将 Fable 5 与现实中最聪明的人对比交流，以此测试 AI 智力水平的真实体感。"
+      "summary": "探討超級智能的到來其實是漸進式的。建議用戶與 Fable 5 交流一小時，再與現實中最聰明的十人對比，以此驗證當前 AI 智能水平已悄然達到極高水準，打破對智能爆發的刻板印象。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2287,7 +2287,7 @@
       "category": "tech",
       "meta": "@EXM7777 · 126.7K 粉丝 · 173.6K 阅 · 521 赞 · 51 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "教程：如何构建首个 5 Agent 协作团队。详细演示将 5 个不同功能的 Agent 接入共享工作区，并设计自我改进循环，实现多 Agent 在同一空间内的协同与自动化迭代。"
+      "summary": "教程：如何構建首個 5 Agent 協作團隊。詳細拆解將 5 個不同功能的 Agent 接入共享工作區，並將其連接成自我改進循環的具體步驟，實現多 Agent 間的協同與自動化叠代。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2298,7 +2298,7 @@
       "category": "tech",
       "meta": "@0xCodez · 23.9K 粉丝 · 154.5K 阅 · 510 赞 · 73 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "提供 14 步从零成为图架构师的 Claude 课程。指出多数人构建多步 Agent 易陷入直线等待的死板流程，9/10 的人发现半数步骤可并行，核心是利用图工程打破线性依赖。"
+      "summary": "發布 Claude 圖工程 14 步完整路線圖。指出多步 Agent 常陷入直線等待的誤區，9/10 的人會發現步驟冗余。課程涵蓋從零到圖架構師的進階，解決復雜 Agent 流程的並行與依賴問題。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2309,7 +2309,7 @@
       "category": "tech",
       "meta": "@herrcore · 15.4K 粉丝 · 64.2K 阅 · 514 赞 · 84 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "逆向工程测试对比：Kimi K3 表现出色，让人质疑为何继续付费使用 Claude Opus。团队此前一直用 Opus 处理逆向任务，但 K3 在该场景下效果比肩且无冗余限制。"
+      "summary": "逆向工程測評：Kimi K3 表現強勁，讓人質疑為何還付費用 Opus。團隊自 4.5 發布以來一直用 Opus 處理逆向任務，但 K3 在無繁瑣限制的情況下達到了同等甚至更好的效果。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2320,7 +2320,7 @@
       "category": "tech",
       "meta": "@IntuitMachine · 62.3K 粉丝 · 50.7K 阅 · 552 赞 · 47 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "探讨 AI Agent 架构从循环工程向图工程的转变。引用 Steinberger 获赞数千的推文，分析当前架构设计重心的转移，核心在于用图结构替代简单循环，提升复杂任务编排能力。"
+      "summary": "探討 AI Agent 架構從循環工程向圖工程的轉變。引用 Steinberger 爆款推文「我們還在討論循環，還是已經轉向圖了？」，剖析 Agent 底層設計範式的核心轉移，揭示復雜任務調度的新趨勢。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2331,7 +2331,7 @@
       "category": "tech",
       "meta": "@enginoid · 1.1K 粉丝 · 49.9K 阅 · 522 赞 · 37 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "分享用 Linear 管理 Agent 的经验。仅支付 12 美元/月的单人费，公司 Agent 上月处理约 400 个 Issue。主张用 Linear 组织 Agent 任务，构建高效的软件工厂模式。"
+      "summary": "分享用 Linear 管理 Agent 的實踐：月付 12 美元，Agent 一個月處理約 400 個 Issue。主張將 Agent 視為軟件工廠的數字員工，用項目管理工具協調其產出，大幅提升開發效率。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2342,7 +2342,7 @@
       "category": "tech",
       "meta": "@therealDeFlock · 82.7K 粉丝 · 12.2K 阅 · 500 赞 · 120 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "发布 Axxon One AI 检测器。该工具支持跨摄像头自动追踪人员移动，主要面向物流、仓储及平安城市项目，提供针对人员轨迹的自动化监控与追踪能力。"
+      "summary": "發布 AI 檢測器 Axxon One。核心功能為「跨攝像頭自動追蹤人員」，主打物流、倉儲及平安城市項目。產品聚焦視頻監控下的多鏡頭目標連續跟蹤與識別，屬於垂直場景的 AI 落地應用。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2396,8 +2396,7 @@
       "excerpt": "Washington, DC is stepping up to borrow $1.2 billion this week at its annual municipal debt sale, tapping the market as its credit stabilizes.",
       "publishedAt": "2026-07-20T19:24:25.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "華盛頓特區將在年度市政債務出售中借貸12億美元，此舉正值該地區信用狀況在DOGE事件後趨於穩定之際。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2451,8 +2450,7 @@
       "excerpt": "President Donald Trump’s immigration crackdown is causing the worst rout on the Mexican stock exchange this year.",
       "publishedAt": "2026-07-20T16:18:32.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "特朗普總統的移民打擊政策重創墨西哥雜貨連鎖店Chedraui，導致其遭遇今年墨西哥股市最嚴重拋售。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2461,8 +2459,7 @@
       "excerpt": "Money‑market funds are shifting toward ultra short-term holdings and away from assets with even modest interest-rate risk as uncertainty grows over the Federal Reserve’s policy path and the near-term outlook for rates.",
       "publishedAt": "2026-07-20T16:52:12.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "因聯準會政策路徑及短期利率前景不明，貨幣市場基金正轉向超短期持倉，規避利率風險。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2489,8 +2486,7 @@
       "excerpt": "One shipowner is attempting to coax crews to sail through the Strait of Hormuz by offering them an extra six months pay if they’re willing to cross the vital oil channel, offering seafarers a stark choice between large financial rewards and the risk of death.",
       "publishedAt": "2026-07-20T16:22:21.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "船東以額外六個月薪資為獎金，吸引船員穿越霍爾木茲海峽，船員面臨高額回報與生命風險的抉擇。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2499,8 +2495,7 @@
       "excerpt": "Releasing barrels of crude was the easy part.",
       "publishedAt": "2026-07-20T16:19:11.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "石油衝擊尚未結束，釋放原油儲備僅是較易操作的部分，後續影響仍待觀察。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2716,8 +2711,7 @@
       "excerpt": "Resurgent costs drive frustration with President Donald Trump ahead of midterm elections",
       "publishedAt": "2026-07-20T20:34:04.000Z",
       "category": "finance",
-      "source": "Financial Times",
-      "summary": "受伊朗戰爭升級影響，美國汽油價格回升至每加侖4美元以上，此番成本上漲引發民眾對特朗普總統的不滿，影響中期選舉選情。"
+      "source": "Financial Times"
     },
     {
       "sourceId": "ft-companies",
@@ -2726,8 +2720,7 @@
       "excerpt": "Big benefactors offer their balance sheets as an emergency ‘deep pocket’, enabling unproven AI companies to borrow cheaply",
       "publishedAt": "2026-07-20T17:55:39.000Z",
       "category": "finance",
-      "source": "Financial Times",
-      "summary": "大型科技公司作為緊急「深口袋」提供資產負債表支持，使未經證實的AI公司能低成本借款，此擔保策略面臨風險。"
+      "source": "Financial Times"
     },
     {
       "sourceId": "ft-companies",
@@ -2736,8 +2729,7 @@
       "excerpt": "Federal court grants request for temporary halt to merger while examining impact on competition in Hollywood",
       "publishedAt": "2026-07-20T17:37:41.000Z",
       "category": "finance",
-      "source": "Financial Times",
-      "summary": "美國聯邦法院批准暫停派拉蒙1100億美元收購華納兄弟的請求，以便審查該合併對好萊塢競爭的影響。"
+      "source": "Financial Times"
     },
     {
       "sourceId": "ft-companies",
@@ -2746,8 +2738,7 @@
       "excerpt": "Prosecutors and securities regulators examine whether companies failed to disclose holdings in affiliated entities",
       "publishedAt": "2026-07-20T17:04:50.000Z",
       "category": "finance",
-      "source": "Financial Times",
-      "summary": "美國檢察官及證券監管機構正調查億萬富翁馬克·沃爾特旗下的保險公司，涉嫌未披露關聯實體持股。"
+      "source": "Financial Times"
     },
     {
       "sourceId": "ft-companies",
@@ -2945,8 +2936,7 @@
       "excerpt": "The former defence secretary is seen as a safe pair of hands - and is now in charge of the government's finances.",
       "publishedAt": "2026-07-20T18:44:55.000Z",
       "category": "finance",
-      "source": "BBC Business",
-      "summary": "約翰·希利在辭去國防大臣職務數週後出任財政大臣，被視為穩健人選，現負責掌管政府財政。"
+      "source": "BBC Business"
     },
     {
       "sourceId": "bbc-business",
@@ -2955,8 +2945,7 @@
       "excerpt": "Every tricky decision and trade off is being watched by the country and the markets at the same time",
       "publishedAt": "2026-07-20T18:21:31.000Z",
       "category": "finance",
-      "source": "BBC Business",
-      "summary": "伯納姆提出多項宏大計劃，但市場與全國民眾正密切關注其背後的成本及艱難的權衡取捨。"
+      "source": "BBC Business"
     },
     {
       "sourceId": "bbc-business",
@@ -2965,8 +2954,7 @@
       "excerpt": "The new PM says he will look at how much people can earn before paying tax but admitted changing it would be difficult.",
       "publishedAt": "2026-07-20T18:22:46.000Z",
       "category": "finance",
-      "source": "BBC Business",
-      "summary": "新任首相伯納姆承諾提供財政援助，表示將審查免稅額度，但承認改變稅收起徵點存在難度。"
+      "source": "BBC Business"
     },
     {
       "sourceId": "bbc-business",
@@ -3488,8 +3476,7 @@
       "excerpt": "The US president spoke just hours after the two warring sides exchanged strikes for the ninth consecutive day.",
       "publishedAt": "2026-07-20T20:14:57.000Z",
       "category": "politics",
-      "source": "BBC World",
-      "summary": "美国总统特朗普警告伊朗将为美军士兵之死「付出多倍代价」。此番言论发表前，美伊双方刚连续第九天互相发动袭击。"
+      "source": "BBC World"
     },
     {
       "sourceId": "bbc-world",
@@ -3561,8 +3548,7 @@
       "excerpt": "US court temporarily stops Paramount and Warner Bros merging after 12 states launched legal action.",
       "publishedAt": "2026-07-20T19:48:13.000Z",
       "category": "politics",
-      "source": "BBC World",
-      "summary": "因12个州发起法律诉讼，美国法院暂时叫停了派拉蒙与华纳兄弟的合并交易。"
+      "source": "BBC World"
     },
     {
       "sourceId": "bbc-world",
@@ -3910,7 +3896,7 @@
       "sourceId": "guardian-world",
       "title": "Australian ski resorts smash July climate records with temperatures 12C above average",
       "url": "https://www.theguardian.com/australia-news/2026/jul/21/australian-ski-resorts-smash-july-climate-records-with-temperatures-12c-above-average",
-      "excerpt": "Resorts in NSW and Victoria face a warm and dry start to the season with only sporadic falls of natural snow in many alpine areas Get our breaking news email, free app or daily news podcast Alpine ski resorts in New South Wales and Victoria saw climate records shattered at the weekend with maximum t",
+      "excerpt": "Resorts in New South Wales and Victoria face a warm and dry start to the season with only sporadic falls of natural snow in many alpine areas Get our breaking news email, free app or daily news podcast Alpine ski resorts in New South Wales and Victoria saw climate records shattered at the weekend wi",
       "publishedAt": "2026-07-20T15:00:45.000Z",
       "category": "politics",
       "source": "The Guardian"
@@ -3926,10 +3912,10 @@
     },
     {
       "sourceId": "guardian-world",
-      "title": "At-home STI test pulled from Australian shelves after failing to detect infections",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/21/tga-suspension-touch-biotechnology-home-sti-test",
-      "excerpt": "Exclusive: TGA finds Touch Biotechnology test for chlamydia and gonorrhoea ‘is not reliable’ and has affected an unspecified number of people Get our breaking news email, free app or daily news podcast Australia’s only approved home test for chlamydia and gonorrhoea has been pulled from shelves afte",
-      "publishedAt": "2026-07-20T15:00:43.000Z",
+      "title": "Pauline Hanson shares Seven pitch for Spotlight special that says program would highlight ‘uncontrolled immigration’",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/21/pauline-hanson-shares-seven-pitch-encouraging-her-to-meet-nigel-farage-for-spotlight-special-ntwnfb",
+      "excerpt": "One Nation leader posts network’s proposal to travel to UK to explore what Australia faces ‘if we don’t take back control of who comes to our country’ Get our breaking news email, free app or daily news podcast A Seven producer urged Pauline Hanson to travel to Britain to meet Nigel Farage and film ",
+      "publishedAt": "2026-07-20T15:00:44.000Z",
       "category": "politics",
       "source": "The Guardian"
     },
@@ -3983,20 +3969,18 @@
       "title": "US military launches further strikes on Iran after Trump says Tehran ‘will pay’ for killing soldiers – Middle East crisis live",
       "url": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news",
       "excerpt": "US Central Command says latest attack aimed at degrading Iranian military capabilities after president threatens country over deaths of US troops US expands Iran offensive as diplomats claim talks ongoing The price of oil jumped in early Asian trade on Monday after the US carried out its latest wave",
-      "publishedAt": "2026-07-20T20:22:38.000Z",
+      "publishedAt": "2026-07-20T20:29:51.000Z",
       "category": "politics",
-      "source": "The Guardian",
-      "summary": "美军对伊朗发动进一步打击，旨在削弱其军事能力。此前特朗普威胁称伊朗将为美军士兵死亡「付出代价」。受美伊冲突影响，周一亚洲早盘油价飙升，外交官称去升级谈判仍在进行。"
+      "source": "The Guardian"
     },
     {
       "sourceId": "guardian-world",
       "title": "Iran says it is in ‘full-scale war’ as Trump vows retaliation over US soldier deaths",
       "url": "https://www.theguardian.com/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices",
-      "excerpt": "Iranian president warns country may have to endure more strikes, as diplomats say de-escalation talks are continuing Middle East crisis live – latest updates Iran’s president has said the country is in a “full-scale war” after the US expanded its aerial campaign and Tehran struck Washington’s Gulf a",
+      "excerpt": "Iranian president warns country may have to endure more strikes, as diplomats say de-escalation talks are continuing Middle East crisis live – latest updates The US military said it has launched its 10th consecutive round of strikes on Iran to force the reopening of the strait of Hormuz. Earlier on ",
       "publishedAt": "2026-07-20T20:19:46.000Z",
       "category": "politics",
-      "source": "The Guardian",
-      "summary": "伊朗总统称该国已处于「全面战争」状态。此前美国扩大空袭行动，特朗普誓言就美军士兵死亡进行报复，伊朗总统警告可能需承受更多打击，外交官称去升级谈判仍在继续。"
+      "source": "The Guardian"
     },
     {
       "sourceId": "guardian-world",
@@ -4039,10 +4023,9 @@
       "title": "Another U.S. Service Member Is Killed as Iran War Expands",
       "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
       "excerpt": "The Pentagon said a service member was killed in northern Iraq while troops disposed of an Iranian drone. It also said “unidentified remains” were found in Jordan, where an earlier attack had left two soldiers dead and another missing.",
-      "publishedAt": "2026-07-20T20:00:58.000Z",
+      "publishedAt": "2026-07-20T20:36:28.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "伊朗战争扩大，五角大楼证实一名美军在伊拉克北部处理伊朗无人机时丧生。此外，在约旦早前遭袭致两名士兵死亡、一人失踪的地点发现了「未确认遗骸」。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4051,8 +4034,7 @@
       "excerpt": "As Andy Burnham became Britain’s seventh leader in a decade on Monday, he tried to show that he will govern differently.",
       "publishedAt": "2026-07-20T19:35:10.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "安迪·伯纳姆周一成为十年来英国第七位首相，其上任首日走访无家可归者收容所与王宫，试图展示其截然不同的执政风格。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4068,10 +4050,9 @@
       "title": "Israel’s Ambassador to U.N. Lashes Out at Mamdani Over Netanyahu Arrest Threats",
       "url": "https://www.nytimes.com/2026/07/20/world/middleeast/israel-un-mamdani-netanyahu-arrest.html",
       "excerpt": "The “threat is empty,” the ambassador, Danny Danon, said in an address to the U.N. General Assembly.",
-      "publishedAt": "2026-07-20T19:38:16.000Z",
+      "publishedAt": "2026-07-20T20:39:15.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "以色列驻联合国大使丹尼·达农在联合国大会上猛烈抨击马姆达尼对内塔尼亚胡的逮捕威胁，称该「威胁是空洞的」。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4098,8 +4079,7 @@
       "excerpt": "For many fans, the World Cup victory cemented a belief that something promising — a cultural, economic and sports revival — is happening in the country.",
       "publishedAt": "2026-07-20T19:24:33.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "西班牙庆祝世界杯夺冠，许多球迷认为这场胜利巩固了该国正经历文化、经济与体育全面复兴的信念。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4148,13 +4128,30 @@
     },
     {
       "sourceId": "nyt-world",
+      "title": "Epidemics and Rage",
+      "url": "https://www.nytimes.com/2026/07/20/world/epidemics-rage-ebola-first-responders.html",
+      "excerpt": "Societies have always struggled with hostile reactions to health care workers during epidemics. Why?",
+      "publishedAt": "2026-07-20T20:44:11.000Z",
+      "category": "politics",
+      "source": "NYT World"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Evacuees of Ontario’s Wildfires Wait and Worry",
+      "url": "https://www.nytimes.com/2026/07/20/world/canada/ontario-wildfire-evacuations-thunder-bay.html",
+      "excerpt": "Flames crept, and then sprinted, toward unsuspecting residents who fled remote parts of northwestern Ontario. Now they want to know why officials weren’t prepared.",
+      "publishedAt": "2026-07-20T20:38:54.000Z",
+      "category": "politics",
+      "source": "NYT World"
+    },
+    {
+      "sourceId": "nyt-world",
       "title": "In Gaza, Spain’s Win Brings a Moment of Joy and Distraction",
       "url": "https://www.nytimes.com/2026/07/20/world/world-cup-spain-gaza-watch-parties.html",
       "excerpt": "Many in the enclave supported Spain, which has recognized Palestinian statehood. Argentina had strong support among Israeli soccer fans.",
       "publishedAt": "2026-07-20T19:54:20.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "加沙民众为西班牙世界杯夺冠欢呼，视其为喜悦与慰藉，因西班牙已承认巴勒斯坦国。而以色列球迷则多支持阿根廷。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4215,10 +4212,9 @@
       "title": "Here’s the latest.",
       "url": "https://www.nytimes.com/live/2026/07/20/world/iran-war-strikes-trump-hormuz/heres-the-latest",
       "excerpt": "",
-      "publishedAt": "2026-07-20T19:23:00.000Z",
+      "publishedAt": "2026-07-20T20:45:07.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "美伊冲突最新动态。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4234,7 +4230,7 @@
       "title": "Rubio Says That U.S. Is Still Open to Diplomacy With Iran",
       "url": "https://www.nytimes.com/2026/07/20/world/middleeast/rubio-us-iran-war-diplomacy.html",
       "excerpt": "Iranian foreign ministry officials and Secretary of State Marco Rubio signaled openness to resume negotiations but declined to provide any new details.",
-      "publishedAt": "2026-07-20T13:58:50.000Z",
+      "publishedAt": "2026-07-20T20:36:26.000Z",
       "category": "politics",
       "source": "NYT World"
     },
@@ -4284,32 +4280,13 @@
       "source": "NYT World"
     },
     {
-      "sourceId": "nyt-world",
-      "title": "Israel watches tensely as the U.S.-Iran fighting escalates.",
-      "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz/israel-watches-tensely-as-the-fighting-between-us-and-iran-escalates",
-      "excerpt": "",
-      "publishedAt": "2026-07-20T02:42:47.000Z",
-      "category": "politics",
-      "source": "NYT World"
-    },
-    {
-      "sourceId": "nyt-world",
-      "title": "The U.S. Is Sending More Warplanes to the Middle East, Officials Say",
-      "url": "https://www.nytimes.com/2026/07/19/world/middleeast/us-warplanes-mideast-iran.html",
-      "excerpt": "F-16 and F-35 jets were en route to the region from Europe, according to U.S. officials who were not authorized to speak publicly.",
-      "publishedAt": "2026-07-19T16:50:55.000Z",
-      "category": "politics",
-      "source": "NYT World"
-    },
-    {
       "sourceId": "npr-world",
       "title": "The war with Iran is escalating. What next?",
       "url": "https://www.npr.org/2026/07/20/nx-s1-5900950/the-war-with-iran-is-escalating-what-next",
       "excerpt": "NPR's Ailsa Chang speaks with Suzanne Maloney of the Brookings Institution about the U.S. war with Iran, the increase in hostilities and what it means for the wider region",
       "publishedAt": "2026-07-20T19:56:49.000Z",
       "category": "politics",
-      "source": "NPR World",
-      "summary": "美伊战争持续升级，NPR与布鲁金斯学会专家探讨敌对行动加剧对中东更广泛地区的影响及未来走向。"
+      "source": "NPR World"
     },
     {
       "sourceId": "npr-world",
@@ -4664,13 +4641,21 @@
     },
     {
       "sourceId": "aljazeera",
+      "title": "Indian police attack Cockroach Janta Party’s parliament march",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/indian-police-attack-cockroach-janta-partys-parliament-march?traffic_source=rss",
+      "excerpt": "Police used batons to disperse protesters as thousands of people joined the Cockroach Janta Party's march in New Delhi.",
+      "publishedAt": "2026-07-20T20:21:30.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
       "title": "Iran condemns US attacks on civilian infrastructure",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/iran-condemns-us-attacks-on-civilian-infrastructure?traffic_source=rss",
       "excerpt": "Iran says it has received mediation proposals from multiple parties and insists diplomatic efforts remain active.",
       "publishedAt": "2026-07-20T20:02:20.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "伊朗强烈谴责美国对其民用基础设施的攻击，并表示已收到多方调解提议，强调外交努力仍在积极进行中。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -4679,8 +4664,7 @@
       "excerpt": "Al-Hayya wins Hamas leadership with a single-vote margin, signalling a focus on Gaza amidst continued Israeli aggression",
       "publishedAt": "2026-07-20T19:43:02.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "哈立德·哈亚以一票优势当选哈马斯领导人，在以色列持续攻击下，此结果暗示该组织将重心聚焦于加沙。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -4689,8 +4673,7 @@
       "excerpt": "Amid Yemen’s harsh economic crisis, securing viable employment has become increasingly difficult for men.",
       "publishedAt": "2026-07-20T19:36:37.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "也门深陷严峻经济危机，男性就业日益困难，当地女性正通过创业支撑家庭生计。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -4699,8 +4682,7 @@
       "excerpt": "The European Commission says waiving penalties will ensure the security of energy supply.",
       "publishedAt": "2026-07-20T19:29:37.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "受能源危机及美国压力影响，欧盟暂停实施甲烷排放处罚。欧盟委员会表示，豁免处罚旨在确保能源供应安全。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -4879,15 +4861,6 @@
       "url": "https://www.aljazeera.com/news/2026/7/20/yemens-houthis-declare-naval-blockade-of-saudi-arabia-what-to-know?traffic_source=rss",
       "excerpt": "Yemeni group says the announcement is based on the principle of 'an eye for an eye'.",
       "publishedAt": "2026-07-20T15:39:37.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Ebola death toll in DRC surges to at least 930 as outbreak continues spread",
-      "url": "https://www.aljazeera.com/news/2026/7/20/ebola-death-toll-in-drc-surges-to-at-least-930-as-outbreak-gathers-pace?traffic_source=rss",
-      "excerpt": "Ebola spreading faster than any previous outbreak in DRC, with 37 new deaths recorded over just 24 hours at the weekend.",
-      "publishedAt": "2026-07-20T15:20:42.000Z",
       "category": "politics",
       "source": "Al Jazeera"
     },
